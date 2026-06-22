@@ -1,6 +1,6 @@
 # Projekt: Cykelringklockan
 
-**Läs först:** `Project cykelringklockan.pdf`
+**Läs först:** `projekt_cykelringklockan_ljudfysik.pdf`
 
 ## Viktiga videor
 
